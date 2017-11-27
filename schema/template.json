@@ -1,0 +1,124 @@
+{
+    "name": "ioRaptor Package X",
+    "type": "IDE",
+    "info": "Raptor recommended IDE!",
+    "lnx_arm": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "linux", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "linux", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "linux", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "linux", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "mac", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "117 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "windows", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "1.0.1",
+        "license": "LGPL",
+        "tags": ["package x", "windows", "embedded"],
+        "silent": true,
+        "md5": "1bc29b36f623ba82aaf6724fd3b16718",
+        "size": "126 MB",
+        "urls" : {
+            "executable" : "https://thingforward.io/packages/packageX.sh",
+            "info" : {
+                "mainpage": "https://thingforward.io",
+                "documenation": "https://docs.thingforward.io",
+                "tutorial": "https://tuts.thingforward.io",
+                "community": "https://forum.thingforward.io"
+            }
+        }
+    }
+}

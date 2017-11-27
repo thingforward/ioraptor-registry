@@ -1,0 +1,121 @@
+{
+    "name": "Qt Creator",
+    "type": "IDE",
+    "info": "Raptor recommended IDE!",
+    "logo": "https://qt-wiki-uploads.s3.amazonaws.com/images/thumb/4/4f/Qt-logo-medium.png/180px-Qt-logo-medium.png",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "urls" : {
+            "executable" : "http://to/script.sh",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "urls" : {
+            "executable" : "http://to/script.sh",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "urls" : {
+            "executable" : "http://to/script.sh",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "4.4.1",
+        "license": "LGPL",
+        "tags": ["embedded","android","linux"],
+        "silent": null,
+        "md5": null,
+        "urls" : {
+            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-linux-x86_64-4.4.1.run",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "4.4.1",
+        "license": "LGPL",
+        "tags": ["embedded","android","ios"],
+        "silent": true,
+        "md5": null,
+        "size": "117 MB",
+        "urls" : {
+            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-mac-x86_64-4.4.1.dmg",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "4.4.1",
+        "license": "LGPL",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "115 MB",
+        "urls" : {
+            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86-4.4.1.exe",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "4.4.1",
+        "license": "LGPL",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "126 MB",
+        "urls" : {
+            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86_64-4.4.1.exe",
+            "info" : {
+                "mainpage": "https://www.qt.io/",
+                "documenation": "https://doc.qt.io/qtcreator/index.html",
+                "tutorial": "https://doc.qt.io/qtcreator/creator-tutorials.html",
+                "community": "https://forum.qt.io/"
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "Slack",
+    "type": "Other",
+    "info": "Chat application",
+    "logo": "https://cdn.worldvectorlogo.com/logos/slack-1.svg",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "2.8.2",
+        "license": "",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "50 MB",
+        "urls" : {
+            "executable" : "https://downloads.slack-edge.com/linux_releases/slack-desktop-2.8.2-amd64.deb",
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "2.8.2",
+        "license": "",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "https://downloads.slack-edge.com/mac_releases/Slack-2.8.2-macOS.zip",
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "win_i386": {
+        "version": "2.8.2",
+        "license": "",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "60 MB",
+        "urls" : {
+            "executable" : "https://downloads.slack-edge.com/releases/SlackSetup.exe",
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "2.8.2",
+        "license": "",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "70 MB",
+        "urls" : {
+            "executable" : "https://downloads.slack-edge.com/releases_x64/SlackSetup.exe",
+            "info" : {
+                "mainpage": "https://slack.com/",
+                "documenation": "https://get.slack.help/hc/en-us/categories/202622877-Slack-Guides",
+                "tutorial": "https://get.slack.help/hc/en-us",
+                "community": null
+            }
+        }
+    }
+}

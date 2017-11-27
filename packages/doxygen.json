@@ -1,0 +1,125 @@
+{
+    "name": "Doxygen",
+    "type": "Documentation",
+    "info": "De facto standard tool for generating documentation from annotated C++ sources",
+    "logo": "https://gitlab.com/uploads/-/system/project/avatar/1016128/doxygen.png",
+    "lnx_arm": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "5 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "5 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "5 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "16 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.linux.bin.tar.gz",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "55 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/Doxygen-1.8.13.dmg",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "24 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13-setup.exe",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "1.8.13",
+        "license": "GPLv2",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "24 MB",
+        "urls" : {
+            "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13-setup.exe",
+            "info" : {
+                "mainpage": "https://www.stack.nl/~dimitri/doxygen/index.html",
+                "documenation": "https://www.stack.nl/~dimitri/doxygen/manual/index.html",
+                "tutorial": "https://www.stack.nl/~dimitri/doxygen/manual/starting.html",
+                "community": "https://stackoverflow.com/questions/tagged/doxygen"
+            }
+        }
+    }
+}

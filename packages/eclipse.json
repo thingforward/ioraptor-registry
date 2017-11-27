@@ -1,0 +1,125 @@
+{
+    "name": "Eclipse",
+    "type": "IDE",
+    "info": "Eclipse Installer",
+    "logo": "https://www.eclipse.org/artwork/images/v2/logo-800x188.png",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "4.7.1a",
+        "license": "EPL",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-linux32.tar.gz",
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "4.7.1a",
+        "license": "EPL",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-linux64.tar.gz",
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "4.7.1a",
+        "license": "EPL",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-mac64.tar.gz",
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "4.7.1a",
+        "license": "EPL",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-win32.exe",
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "4.7.1a",
+        "license": "EPL",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "46 MB",
+        "urls" : {
+            "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-win64.exe",
+            "info" : {
+                "mainpage": "https://www.eclipse.org",
+                "documenation": "https://www.eclipse.org/documentation/",
+                "tutorial": "https://www.tutorialspoint.com/eclipse/",
+                "community": "https://www.eclipse.org/forums/"
+            }
+        }
+    }
+}

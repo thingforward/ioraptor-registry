@@ -1,0 +1,125 @@
+{
+    "name": "yotta",
+    "type": "ToolchainManagement",
+    "info": "yotta is the software module system used in Mbed OS 3",
+    "logo": null,
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "004",
+        "license": "Apache-2.0",
+        "tags": [null],
+        "silent": true,
+        "md5": "2c959c6ba4ffed23bd102c4e92095fa9",
+        "size": "190 MB",
+        "urls" : {
+            "executable" : "https://mbed-media.mbed.com/filer_public/91/56/91567e17-7a78-41ec-a998-4ee38e6274a2/yotta_osx_installer_v004.dmg",
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "023",
+        "license": "Apache-2.0",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": "fff688dc4968ec80bbb0eedf45de82db",
+        "size": "168 MB",
+        "urls" : {
+            "executable" : "https://mbed-media.mbed.com/filer_public/2f/0b/2f0b924c-1fac-4907-989b-f2afe3f5785e/yotta_install_v023.exe",
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "023",
+        "license": "Apache-2.0",
+        "tags": [null],
+        "silent": true,
+        "md5": "370014d73c3059f610c27365def62058",
+        "size": "168 MB",
+        "urls" : {
+            "executable" : "https://mbed-media.mbed.com/filer_public/2f/0b/2f0b924c-1fac-4907-989b-f2afe3f5785e/yotta_install_v023.exe",
+            "info" : {
+                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "documenation": "http://docs.yottabuild.org/",
+                "tutorial": "http://docs.yottabuild.org/",
+                "community": "https://github.com/ARMmbed/yotta/issues"
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "PlatformIO",
+    "type": "ToolchainManagement",
+    "info": "PlatformIO is an open source ecosystem for IoT development. Cross-platform IDE and unified debugger. Remote unit testing and firmware updates.",
+    "logo": "http://cdn.platformio.org/images/platformio-logo.17fdc3bc.png",
+    "lnx_arm": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "3.5.0a16",
+        "license": "Apache 2.0",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "1 MB",
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "http://platformio.org/",
+                "documenation": "http://docs.platformio.org/en/latest/",
+                "tutorial": "http://platformio.org/get-started",
+                "community": "https://community.platformio.org/"
+            }
+        }
+    }
+}

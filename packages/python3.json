@@ -1,0 +1,125 @@
+{
+    "name": "Python 3",
+    "type": "Backend",
+    "info": "Python is a programming language that lets you work more quickly and integrate your systems more effectively",
+    "logo": "https://www.python.org/static/community_logos/python-logo-inkscape.svg",
+    "lnx_arm": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": null,
+        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
+        "size": "16 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": null,
+        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
+        "size": "16 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": null,
+        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
+        "size": "16 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": null,
+        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
+        "size": "16 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": true,
+        "md5": "ce31f17c952c657244a5cd0cccae34ad",
+        "size": "22 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": ["embedded","android","windows"],
+        "silent": true,
+        "md5": "3811c6d3203358e0c0c6b6677ae980d3",
+        "size": "18 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3.exe",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "3.6.3",
+        "license": "",
+        "tags": [null],
+        "silent": true,
+        "md5": "89044fb577636803bf49f36371dca09c",
+        "size": "19 MB",
+        "urls" : {
+            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe",
+            "info" : {
+                "mainpage": "https://www.python.org/",
+                "documenation": "https://www.python.org/doc/",
+                "tutorial": "https://www.python.org/about/gettingstarted/",
+                "community": "https://www.python.org/community/"
+            }
+        }
+    }
+}

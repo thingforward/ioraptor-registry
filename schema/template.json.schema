@@ -1,0 +1,962 @@
+  1 {
+  2   "definitions": {}, 
+  3   "$schema": "http://json-schema.org/draft-06/schema#", 
+  4   "$id": "https://thingfoward.io/template.json", 
+  5   "type": "object", 
+  6   "properties": {
+  7     "name": {
+  8       "$id": "/properties/name", 
+  9       "type": "string", 
+ 10       "title": "The Name Schema.", 
+ 11       "description": "Name of the package.", 
+ 12       "default": "", 
+ 13       "examples": [
+ 14         "ioRaptor Package X"
+ 15       ]
+ 16     }, 
+ 17     "type": {
+ 18       "$id": "/properties/type", 
+ 19       "type": "string", 
+ 20       "title": "The Type Schema.", 
+ 21       "description": "Type of the package.", 
+ 22       "default": "", 
+ 23       "examples": [
+ 24         "IDE"
+ 25       ]
+ 26     }, 
+ 27     "info": {
+ 28       "$id": "/properties/info", 
+ 29       "type": "string", 
+ 30       "title": "The Info Schema.", 
+ 31       "description": "Additional information to be displayed about the package.", 
+ 32       "default": "", 
+ 33       "examples": [
+ 34         "Raptor recommended IDE!"
+ 35       ]
+ 36     }, 
+ 37     "lnx_arm": {
+ 38       "$id": "/properties/lnx_arm", 
+ 39       "type": "object", 
+ 40       "properties": {
+ 41         "version": {
+ 42           "$id": "/properties/lnx_arm/properties/version", 
+ 43           "type": "string", 
+ 44           "title": "The Version Schema.", 
+ 45           "description": "", 
+ 46           "default": "", 
+ 47           "examples": [
+ 48             "1.0.1"
+ 49           ]
+ 50         }, 
+ 51         "license": {
+ 52           "$id": "/properties/lnx_arm/properties/license", 
+ 53           "type": "string", 
+ 54           "title": "The License Schema.", 
+ 55           "description": "", 
+ 56           "default": "", 
+ 57           "examples": [
+ 58             "LGPL"
+ 59           ]
+ 60         }, 
+ 61         "tags": {
+ 62           "$id": "/properties/lnx_arm/properties/tags", 
+ 63           "type": "array", 
+ 64           "items": {
+ 65             "$id": "/properties/lnx_arm/properties/tags/items", 
+ 66             "type": "string", 
+ 67             "title": "The 0 Schema.", 
+ 68             "description": "", 
+ 69             "default": "", 
+ 70             "examples": [
+ 71               "package x"
+ 72             ]
+ 73           }
+ 74         }, 
+ 75         "silent": {
+ 76           "$id": "/properties/lnx_arm/properties/silent", 
+ 77           "type": "boolean", 
+ 78           "title": "The Silent Schema.", 
+ 79           "description": "", 
+ 80           "default": false, 
+ 81           "examples": [
+ 82             true
+ 83           ]
+ 84         }, 
+ 85         "md5": {
+ 86           "$id": "/properties/lnx_arm/properties/md5", 
+ 87           "type": "string", 
+ 88           "title": "The Md5 Schema.", 
+ 89           "description": "", 
+ 90           "default": "", 
+ 91           "examples": [
+ 92             "1bc29b36f623ba82aaf6724fd3b16718"
+ 93           ]
+ 94         }, 
+ 95         "size": {
+ 96           "$id": "/properties/lnx_arm/properties/size", 
+ 97           "type": "string", 
+ 98           "title": "The Size Schema.", 
+ 99           "description": "", 
+100           "default": "", 
+101           "examples": [
+102             "115 MB"
+103           ]
+104         }, 
+105         "urls": {
+106           "$id": "/properties/lnx_arm/properties/urls", 
+107           "type": "object", 
+108           "properties": {
+109             "executable": {
+110               "$id": "/properties/lnx_arm/properties/urls/properties/executable", 
+111               "type": "string", 
+112               "title": "The Executable Schema.", 
+113               "description": "", 
+114               "default": "", 
+115               "examples": [
+116                 "https://thingforward.io/packages/packageX.sh"
+117               ]
+118             }, 
+119             "info": {
+120               "$id": "/properties/lnx_arm/properties/urls/properties/info", 
+121               "type": "object", 
+122               "properties": {
+123                 "mainpage": {
+124                   "$id": "/properties/lnx_arm/properties/urls/properties/info/properties/mainpage", 
+125                   "type": "string", 
+126                   "title": "The Mainpage Schema.", 
+127                   "description": "", 
+128                   "default": "", 
+129                   "examples": [
+130                     "https://thingforward.io"
+131                   ]
+132                 }, 
+133                 "documenation": {
+134                   "$id": "/properties/lnx_arm/properties/urls/properties/info/properties/documenation", 
+135                   "type": "string", 
+136                   "title": "The Documenation Schema.", 
+137                   "description": "", 
+138                   "default": "", 
+139                   "examples": [
+140                     "https://docs.thingforward.io"
+141                   ]
+142                 }, 
+143                 "tutorial": {
+144                   "$id": "/properties/lnx_arm/properties/urls/properties/info/properties/tutorial", 
+145                   "type": "string", 
+146                   "title": "The Tutorial Schema.", 
+147                   "description": "", 
+148                   "default": "", 
+149                   "examples": [
+150                     "https://tuts.thingforward.io"
+151                   ]
+152                 }, 
+153                 "community": {
+154                   "$id": "/properties/lnx_arm/properties/urls/properties/info/properties/community", 
+155                   "type": "string", 
+156                   "title": "The Community Schema.", 
+157                   "description": "", 
+158                   "default": "", 
+159                   "examples": [
+160                     "https://forum.thingforward.io"
+161                   ]
+162                 }
+163               }
+164             }
+165           }
+166         }
+167       }
+168     }, 
+169     "lnx_arm64": {
+170       "$id": "/properties/lnx_arm64", 
+171       "type": "object", 
+172       "properties": {
+173         "version": {
+174           "$id": "/properties/lnx_arm64/properties/version", 
+175           "type": "string", 
+176           "title": "The Version Schema.", 
+177           "description": "", 
+178           "default": "", 
+179           "examples": [
+180             "1.0.1"
+181           ]
+182         }, 
+183         "license": {
+184           "$id": "/properties/lnx_arm64/properties/license", 
+185           "type": "string", 
+186           "title": "The License Schema.", 
+187           "description": "", 
+188           "default": "", 
+189           "examples": [
+190             "LGPL"
+191           ]
+192         }, 
+193         "tags": {
+194           "$id": "/properties/lnx_arm64/properties/tags", 
+195           "type": "array", 
+196           "items": {
+197             "$id": "/properties/lnx_arm64/properties/tags/items", 
+198             "type": "string", 
+199             "title": "The 0 Schema.", 
+200             "description": "", 
+201             "default": "", 
+202             "examples": [
+203               "package x"
+204             ]
+205           }
+206         }, 
+207         "silent": {
+208           "$id": "/properties/lnx_arm64/properties/silent", 
+209           "type": "boolean", 
+210           "title": "The Silent Schema.", 
+211           "description": "", 
+212           "default": false, 
+213           "examples": [
+214             true
+215           ]
+216         }, 
+217         "md5": {
+218           "$id": "/properties/lnx_arm64/properties/md5", 
+219           "type": "string", 
+220           "title": "The Md5 Schema.", 
+221           "description": "", 
+222           "default": "", 
+223           "examples": [
+224             "1bc29b36f623ba82aaf6724fd3b16718"
+225           ]
+226         }, 
+227         "size": {
+228           "$id": "/properties/lnx_arm64/properties/size", 
+229           "type": "string", 
+230           "title": "The Size Schema.", 
+231           "description": "", 
+232           "default": "", 
+233           "examples": [
+234             "115 MB"
+235           ]
+236         }, 
+237         "urls": {
+238           "$id": "/properties/lnx_arm64/properties/urls", 
+239           "type": "object", 
+240           "properties": {
+241             "executable": {
+242               "$id": "/properties/lnx_arm64/properties/urls/properties/executable", 
+243               "type": "string", 
+244               "title": "The Executable Schema.", 
+245               "description": "", 
+246               "default": "", 
+247               "examples": [
+248                 "https://thingforward.io/packages/packageX.sh"
+249               ]
+250             }, 
+251             "info": {
+252               "$id": "/properties/lnx_arm64/properties/urls/properties/info", 
+253               "type": "object", 
+254               "properties": {
+255                 "mainpage": {
+256                   "$id": "/properties/lnx_arm64/properties/urls/properties/info/properties/mainpage", 
+257                   "type": "string", 
+258                   "title": "The Mainpage Schema.", 
+259                   "description": "", 
+260                   "default": "", 
+261                   "examples": [
+262                     "https://thingforward.io"
+263                   ]
+264                 }, 
+265                 "documenation": {
+266                   "$id": "/properties/lnx_arm64/properties/urls/properties/info/properties/documenation", 
+267                   "type": "string", 
+268                   "title": "The Documenation Schema.", 
+269                   "description": "", 
+270                   "default": "", 
+271                   "examples": [
+272                     "https://docs.thingforward.io"
+273                   ]
+274                 }, 
+275                 "tutorial": {
+276                   "$id": "/properties/lnx_arm64/properties/urls/properties/info/properties/tutorial", 
+277                   "type": "string", 
+278                   "title": "The Tutorial Schema.", 
+279                   "description": "", 
+280                   "default": "", 
+281                   "examples": [
+282                     "https://tuts.thingforward.io"
+283                   ]
+284                 }, 
+285                 "community": {
+286                   "$id": "/properties/lnx_arm64/properties/urls/properties/info/properties/community", 
+287                   "type": "string", 
+288                   "title": "The Community Schema.", 
+289                   "description": "", 
+290                   "default": "", 
+291                   "examples": [
+292                     "https://forum.thingforward.io"
+293                   ]
+294                 }
+295               }
+296             }
+297           }
+298         }
+299       }
+300     }, 
+301     "lnx_i386": {
+302       "$id": "/properties/lnx_i386", 
+303       "type": "object", 
+304       "properties": {
+305         "version": {
+306           "$id": "/properties/lnx_i386/properties/version", 
+307           "type": "string", 
+308           "title": "The Version Schema.", 
+309           "description": "", 
+310           "default": "", 
+311           "examples": [
+312             "1.0.1"
+313           ]
+314         }, 
+315         "license": {
+316           "$id": "/properties/lnx_i386/properties/license", 
+317           "type": "string", 
+318           "title": "The License Schema.", 
+319           "description": "", 
+320           "default": "", 
+321           "examples": [
+322             "LGPL"
+323           ]
+324         }, 
+325         "tags": {
+326           "$id": "/properties/lnx_i386/properties/tags", 
+327           "type": "array", 
+328           "items": {
+329             "$id": "/properties/lnx_i386/properties/tags/items", 
+330             "type": "string", 
+331             "title": "The 0 Schema.", 
+332             "description": "", 
+333             "default": "", 
+334             "examples": [
+335               "package x"
+336             ]
+337           }
+338         }, 
+339         "silent": {
+340           "$id": "/properties/lnx_i386/properties/silent", 
+341           "type": "boolean", 
+342           "title": "The Silent Schema.", 
+343           "description": "", 
+344           "default": false, 
+345           "examples": [
+346             true
+347           ]
+348         }, 
+349         "md5": {
+350           "$id": "/properties/lnx_i386/properties/md5", 
+351           "type": "string", 
+352           "title": "The Md5 Schema.", 
+353           "description": "", 
+354           "default": "", 
+355           "examples": [
+356             "1bc29b36f623ba82aaf6724fd3b16718"
+357           ]
+358         }, 
+359         "size": {
+360           "$id": "/properties/lnx_i386/properties/size", 
+361           "type": "string", 
+362           "title": "The Size Schema.", 
+363           "description": "", 
+364           "default": "", 
+365           "examples": [
+366             "115 MB"
+367           ]
+368         }, 
+369         "urls": {
+370           "$id": "/properties/lnx_i386/properties/urls", 
+371           "type": "object", 
+372           "properties": {
+373             "executable": {
+374               "$id": "/properties/lnx_i386/properties/urls/properties/executable", 
+375               "type": "string", 
+376               "title": "The Executable Schema.", 
+377               "description": "", 
+378               "default": "", 
+379               "examples": [
+380                 "https://thingforward.io/packages/packageX.sh"
+381               ]
+382             }, 
+383             "info": {
+384               "$id": "/properties/lnx_i386/properties/urls/properties/info", 
+385               "type": "object", 
+386               "properties": {
+387                 "mainpage": {
+388                   "$id": "/properties/lnx_i386/properties/urls/properties/info/properties/mainpage", 
+389                   "type": "string", 
+390                   "title": "The Mainpage Schema.", 
+391                   "description": "", 
+392                   "default": "", 
+393                   "examples": [
+394                     "https://thingforward.io"
+395                   ]
+396                 }, 
+397                 "documenation": {
+398                   "$id": "/properties/lnx_i386/properties/urls/properties/info/properties/documenation", 
+399                   "type": "string", 
+400                   "title": "The Documenation Schema.", 
+401                   "description": "", 
+402                   "default": "", 
+403                   "examples": [
+404                     "https://docs.thingforward.io"
+405                   ]
+406                 }, 
+407                 "tutorial": {
+408                   "$id": "/properties/lnx_i386/properties/urls/properties/info/properties/tutorial", 
+409                   "type": "string", 
+410                   "title": "The Tutorial Schema.", 
+411                   "description": "", 
+412                   "default": "", 
+413                   "examples": [
+414                     "https://tuts.thingforward.io"
+415                   ]
+416                 }, 
+417                 "community": {
+418                   "$id": "/properties/lnx_i386/properties/urls/properties/info/properties/community", 
+419                   "type": "string", 
+420                   "title": "The Community Schema.", 
+421                   "description": "", 
+422                   "default": "", 
+423                   "examples": [
+424                     "https://forum.thingforward.io"
+425                   ]
+426                 }
+427               }
+428             }
+429           }
+430         }
+431       }
+432     }, 
+433     "lnx_x86_64": {
+434       "$id": "/properties/lnx_x86_64", 
+435       "type": "object", 
+436       "properties": {
+437         "version": {
+438           "$id": "/properties/lnx_x86_64/properties/version", 
+439           "type": "string", 
+440           "title": "The Version Schema.", 
+441           "description": "", 
+442           "default": "", 
+443           "examples": [
+444             "1.0.1"
+445           ]
+446         }, 
+447         "license": {
+448           "$id": "/properties/lnx_x86_64/properties/license", 
+449           "type": "string", 
+450           "title": "The License Schema.", 
+451           "description": "", 
+452           "default": "", 
+453           "examples": [
+454             "LGPL"
+455           ]
+456         }, 
+457         "tags": {
+458           "$id": "/properties/lnx_x86_64/properties/tags", 
+459           "type": "array", 
+460           "items": {
+461             "$id": "/properties/lnx_x86_64/properties/tags/items", 
+462             "type": "string", 
+463             "title": "The 0 Schema.", 
+464             "description": "", 
+465             "default": "", 
+466             "examples": [
+467               "package x"
+468             ]
+469           }
+470         }, 
+471         "silent": {
+472           "$id": "/properties/lnx_x86_64/properties/silent", 
+473           "type": "boolean", 
+474           "title": "The Silent Schema.", 
+475           "description": "", 
+476           "default": false, 
+477           "examples": [
+478             true
+479           ]
+480         }, 
+481         "md5": {
+482           "$id": "/properties/lnx_x86_64/properties/md5", 
+483           "type": "string", 
+484           "title": "The Md5 Schema.", 
+485           "description": "", 
+486           "default": "", 
+487           "examples": [
+488             "1bc29b36f623ba82aaf6724fd3b16718"
+489           ]
+490         }, 
+491         "size": {
+492           "$id": "/properties/lnx_x86_64/properties/size", 
+493           "type": "string", 
+494           "title": "The Size Schema.", 
+495           "description": "", 
+496           "default": "", 
+497           "examples": [
+498             "115 MB"
+499           ]
+500         }, 
+501         "urls": {
+502           "$id": "/properties/lnx_x86_64/properties/urls", 
+503           "type": "object", 
+504           "properties": {
+505             "executable": {
+506               "$id": "/properties/lnx_x86_64/properties/urls/properties/executable", 
+507               "type": "string", 
+508               "title": "The Executable Schema.", 
+509               "description": "", 
+510               "default": "", 
+511               "examples": [
+512                 "https://thingforward.io/packages/packageX.sh"
+513               ]
+514             }, 
+515             "info": {
+516               "$id": "/properties/lnx_x86_64/properties/urls/properties/info", 
+517               "type": "object", 
+518               "properties": {
+519                 "mainpage": {
+520                   "$id": "/properties/lnx_x86_64/properties/urls/properties/info/properties/mainpage", 
+521                   "type": "string", 
+522                   "title": "The Mainpage Schema.", 
+523                   "description": "", 
+524                   "default": "", 
+525                   "examples": [
+526                     "https://thingforward.io"
+527                   ]
+528                 }, 
+529                 "documenation": {
+530                   "$id": "/properties/lnx_x86_64/properties/urls/properties/info/properties/documenation", 
+531                   "type": "string", 
+532                   "title": "The Documenation Schema.", 
+533                   "description": "", 
+534                   "default": "", 
+535                   "examples": [
+536                     "https://docs.thingforward.io"
+537                   ]
+538                 }, 
+539                 "tutorial": {
+540                   "$id": "/properties/lnx_x86_64/properties/urls/properties/info/properties/tutorial", 
+541                   "type": "string", 
+542                   "title": "The Tutorial Schema.", 
+543                   "description": "", 
+544                   "default": "", 
+545                   "examples": [
+546                     "https://tuts.thingforward.io"
+547                   ]
+548                 }, 
+549                 "community": {
+550                   "$id": "/properties/lnx_x86_64/properties/urls/properties/info/properties/community", 
+551                   "type": "string", 
+552                   "title": "The Community Schema.", 
+553                   "description": "", 
+554                   "default": "", 
+555                   "examples": [
+556                     "https://forum.thingforward.io"
+557                   ]
+558                 }
+559               }
+560             }
+561           }
+562         }
+563       }
+564     }, 
+565     "osx_x86_64": {
+566       "$id": "/properties/osx_x86_64", 
+567       "type": "object", 
+568       "properties": {
+569         "version": {
+570           "$id": "/properties/osx_x86_64/properties/version", 
+571           "type": "string", 
+572           "title": "The Version Schema.", 
+573           "description": "", 
+574           "default": "", 
+575           "examples": [
+576             "1.0.1"
+577           ]
+578         }, 
+579         "license": {
+580           "$id": "/properties/osx_x86_64/properties/license", 
+581           "type": "string", 
+582           "title": "The License Schema.", 
+583           "description": "", 
+584           "default": "", 
+585           "examples": [
+586             "LGPL"
+587           ]
+588         }, 
+589         "tags": {
+590           "$id": "/properties/osx_x86_64/properties/tags", 
+591           "type": "array", 
+592           "items": {
+593             "$id": "/properties/osx_x86_64/properties/tags/items", 
+594             "type": "string", 
+595             "title": "The 0 Schema.", 
+596             "description": "", 
+597             "default": "", 
+598             "examples": [
+599               "package x"
+600             ]
+601           }
+602         }, 
+603         "silent": {
+604           "$id": "/properties/osx_x86_64/properties/silent", 
+605           "type": "boolean", 
+606           "title": "The Silent Schema.", 
+607           "description": "", 
+608           "default": false, 
+609           "examples": [
+610             true
+611           ]
+612         }, 
+613         "md5": {
+614           "$id": "/properties/osx_x86_64/properties/md5", 
+615           "type": "string", 
+616           "title": "The Md5 Schema.", 
+617           "description": "", 
+618           "default": "", 
+619           "examples": [
+620             "1bc29b36f623ba82aaf6724fd3b16718"
+621           ]
+622         }, 
+623         "size": {
+624           "$id": "/properties/osx_x86_64/properties/size", 
+625           "type": "string", 
+626           "title": "The Size Schema.", 
+627           "description": "", 
+628           "default": "", 
+629           "examples": [
+630             "117 MB"
+631           ]
+632         }, 
+633         "urls": {
+634           "$id": "/properties/osx_x86_64/properties/urls", 
+635           "type": "object", 
+636           "properties": {
+637             "executable": {
+638               "$id": "/properties/osx_x86_64/properties/urls/properties/executable", 
+639               "type": "string", 
+640               "title": "The Executable Schema.", 
+641               "description": "", 
+642               "default": "", 
+643               "examples": [
+644                 "https://thingforward.io/packages/packageX.sh"
+645               ]
+646             }, 
+647             "info": {
+648               "$id": "/properties/osx_x86_64/properties/urls/properties/info", 
+649               "type": "object", 
+650               "properties": {
+651                 "mainpage": {
+652                   "$id": "/properties/osx_x86_64/properties/urls/properties/info/properties/mainpage", 
+653                   "type": "string", 
+654                   "title": "The Mainpage Schema.", 
+655                   "description": "", 
+656                   "default": "", 
+657                   "examples": [
+658                     "https://thingforward.io"
+659                   ]
+660                 }, 
+661                 "documenation": {
+662                   "$id": "/properties/osx_x86_64/properties/urls/properties/info/properties/documenation", 
+663                   "type": "string", 
+664                   "title": "The Documenation Schema.", 
+665                   "description": "", 
+666                   "default": "", 
+667                   "examples": [
+668                     "https://docs.thingforward.io"
+669                   ]
+670                 }, 
+671                 "tutorial": {
+672                   "$id": "/properties/osx_x86_64/properties/urls/properties/info/properties/tutorial", 
+673                   "type": "string", 
+674                   "title": "The Tutorial Schema.", 
+675                   "description": "", 
+676                   "default": "", 
+677                   "examples": [
+678                     "https://tuts.thingforward.io"
+679                   ]
+680                 }, 
+681                 "community": {
+682                   "$id": "/properties/osx_x86_64/properties/urls/properties/info/properties/community", 
+683                   "type": "string", 
+684                   "title": "The Community Schema.", 
+685                   "description": "", 
+686                   "default": "", 
+687                   "examples": [
+688                     "https://forum.thingforward.io"
+689                   ]
+690                 }
+691               }
+692             }
+693           }
+694         }
+695       }
+696     }, 
+697     "win_i386": {
+698       "$id": "/properties/win_i386", 
+699       "type": "object", 
+700       "properties": {
+701         "version": {
+702           "$id": "/properties/win_i386/properties/version", 
+703           "type": "string", 
+704           "title": "The Version Schema.", 
+705           "description": "", 
+706           "default": "", 
+707           "examples": [
+708             "1.0.1"
+709           ]
+710         }, 
+711         "license": {
+712           "$id": "/properties/win_i386/properties/license", 
+713           "type": "string", 
+714           "title": "The License Schema.", 
+715           "description": "", 
+716           "default": "", 
+717           "examples": [
+718             "LGPL"
+719           ]
+720         }, 
+721         "tags": {
+722           "$id": "/properties/win_i386/properties/tags", 
+723           "type": "array", 
+724           "items": {
+725             "$id": "/properties/win_i386/properties/tags/items", 
+726             "type": "string", 
+727             "title": "The 0 Schema.", 
+728             "description": "", 
+729             "default": "", 
+730             "examples": [
+731               "package x"
+732             ]
+733           }
+734         }, 
+735         "silent": {
+736           "$id": "/properties/win_i386/properties/silent", 
+737           "type": "boolean", 
+738           "title": "The Silent Schema.", 
+739           "description": "", 
+740           "default": false, 
+741           "examples": [
+742             true
+743           ]
+744         }, 
+745         "md5": {
+746           "$id": "/properties/win_i386/properties/md5", 
+747           "type": "string", 
+748           "title": "The Md5 Schema.", 
+749           "description": "", 
+750           "default": "", 
+751           "examples": [
+752             "1bc29b36f623ba82aaf6724fd3b16718"
+753           ]
+754         }, 
+755         "size": {
+756           "$id": "/properties/win_i386/properties/size", 
+757           "type": "string", 
+758           "title": "The Size Schema.", 
+759           "description": "", 
+760           "default": "", 
+761           "examples": [
+762             "115 MB"
+763           ]
+764         }, 
+765         "urls": {
+766           "$id": "/properties/win_i386/properties/urls", 
+767           "type": "object", 
+768           "properties": {
+769             "executable": {
+770               "$id": "/properties/win_i386/properties/urls/properties/executable", 
+771               "type": "string", 
+772               "title": "The Executable Schema.", 
+773               "description": "", 
+774               "default": "", 
+775               "examples": [
+776                 "https://thingforward.io/packages/packageX.sh"
+777               ]
+778             }, 
+779             "info": {
+780               "$id": "/properties/win_i386/properties/urls/properties/info", 
+781               "type": "object", 
+782               "properties": {
+783                 "mainpage": {
+784                   "$id": "/properties/win_i386/properties/urls/properties/info/properties/mainpage", 
+785                   "type": "string", 
+786                   "title": "The Mainpage Schema.", 
+787                   "description": "", 
+788                   "default": "", 
+789                   "examples": [
+790                     "https://thingforward.io"
+791                   ]
+792                 }, 
+793                 "documenation": {
+794                   "$id": "/properties/win_i386/properties/urls/properties/info/properties/documenation", 
+795                   "type": "string", 
+796                   "title": "The Documenation Schema.", 
+797                   "description": "", 
+798                   "default": "", 
+799                   "examples": [
+800                     "https://docs.thingforward.io"
+801                   ]
+802                 }, 
+803                 "tutorial": {
+804                   "$id": "/properties/win_i386/properties/urls/properties/info/properties/tutorial", 
+805                   "type": "string", 
+806                   "title": "The Tutorial Schema.", 
+807                   "description": "", 
+808                   "default": "", 
+809                   "examples": [
+810                     "https://tuts.thingforward.io"
+811                   ]
+812                 }, 
+813                 "community": {
+814                   "$id": "/properties/win_i386/properties/urls/properties/info/properties/community", 
+815                   "type": "string", 
+816                   "title": "The Community Schema.", 
+817                   "description": "", 
+818                   "default": "", 
+819                   "examples": [
+820                     "https://forum.thingforward.io"
+821                   ]
+822                 }
+823               }
+824             }
+825           }
+826         }
+827       }
+828     }, 
+829     "win_x86_64": {
+830       "$id": "/properties/win_x86_64", 
+831       "type": "object", 
+832       "properties": {
+833         "version": {
+834           "$id": "/properties/win_x86_64/properties/version", 
+835           "type": "string", 
+836           "title": "The Version Schema.", 
+837           "description": "", 
+838           "default": "", 
+839           "examples": [
+840             "1.0.1"
+841           ]
+842         }, 
+843         "license": {
+844           "$id": "/properties/win_x86_64/properties/license", 
+845           "type": "string", 
+846           "title": "The License Schema.", 
+847           "description": "", 
+848           "default": "", 
+849           "examples": [
+850             "LGPL"
+851           ]
+852         }, 
+853         "tags": {
+854           "$id": "/properties/win_x86_64/properties/tags", 
+855           "type": "array", 
+856           "items": {
+857             "$id": "/properties/win_x86_64/properties/tags/items", 
+858             "type": "string", 
+859             "title": "The 0 Schema.", 
+860             "description": "", 
+861             "default": "", 
+862             "examples": [
+863               "package x"
+864             ]
+865           }
+866         }, 
+867         "silent": {
+868           "$id": "/properties/win_x86_64/properties/silent", 
+869           "type": "boolean", 
+870           "title": "The Silent Schema.", 
+871           "description": "", 
+872           "default": false, 
+873           "examples": [
+874             true
+875           ]
+876         }, 
+877         "md5": {
+878           "$id": "/properties/win_x86_64/properties/md5", 
+879           "type": "string", 
+880           "title": "The Md5 Schema.", 
+881           "description": "", 
+882           "default": "", 
+883           "examples": [
+884             "1bc29b36f623ba82aaf6724fd3b16718"
+885           ]
+886         }, 
+887         "size": {
+888           "$id": "/properties/win_x86_64/properties/size", 
+889           "type": "string", 
+890           "title": "The Size Schema.", 
+891           "description": "", 
+892           "default": "", 
+893           "examples": [
+894             "126 MB"
+895           ]
+896         }, 
+897         "urls": {
+898           "$id": "/properties/win_x86_64/properties/urls", 
+899           "type": "object", 
+900           "properties": {
+901             "executable": {
+902               "$id": "/properties/win_x86_64/properties/urls/properties/executable", 
+903               "type": "string", 
+904               "title": "The Executable Schema.", 
+905               "description": "", 
+906               "default": "", 
+907               "examples": [
+908                 "https://thingforward.io/packages/packageX.sh"
+909               ]
+910             }, 
+911             "info": {
+912               "$id": "/properties/win_x86_64/properties/urls/properties/info", 
+913               "type": "object", 
+914               "properties": {
+915                 "mainpage": {
+916                   "$id": "/properties/win_x86_64/properties/urls/properties/info/properties/mainpage", 
+917                   "type": "string", 
+918                   "title": "The Mainpage Schema.", 
+919                   "description": "", 
+920                   "default": "", 
+921                   "examples": [
+922                     "https://thingforward.io"
+923                   ]
+924                 }, 
+925                 "documenation": {
+926                   "$id": "/properties/win_x86_64/properties/urls/properties/info/properties/documenation", 
+927                   "type": "string", 
+928                   "title": "The Documenation Schema.", 
+929                   "description": "", 
+930                   "default": "", 
+931                   "examples": [
+932                     "https://docs.thingforward.io"
+933                   ]
+934                 }, 
+935                 "tutorial": {
+936                   "$id": "/properties/win_x86_64/properties/urls/properties/info/properties/tutorial", 
+937                   "type": "string", 
+938                   "title": "The Tutorial Schema.", 
+939                   "description": "", 
+940                   "default": "", 
+941                   "examples": [
+942                     "https://tuts.thingforward.io"
+943                   ]
+944                 }, 
+945                 "community": {
+946                   "$id": "/properties/win_x86_64/properties/urls/properties/info/properties/community", 
+947                   "type": "string", 
+948                   "title": "The Community Schema.", 
+949                   "description": "", 
+950                   "default": "", 
+951                   "examples": [
+952                     "https://forum.thingforward.io"
+953                   ]
+954                 }
+955               }
+956             }
+957           }
+958         }
+959       }
+960     }
+961   }
+962 }

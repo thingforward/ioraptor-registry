@@ -1,0 +1,7 @@
+Naming convention:
+
+<platformname>.<productname>.<scriptextension>
+
+For example:
+
+win_i386.platformio.ps1 for Windows Powershell Script
