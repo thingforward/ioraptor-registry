@@ -1,7 +1,7 @@
 {
-    "name": "Qt Creator",
-    "type": "IDE",
-    "info": "Raptor recommended IDE!",
+    "name": "Qt",
+    "type": "ToolchainManagement",
+    "info": "Easily create connected devices, UIs and applications with native C++ performance. It’s powerful, yet compact, has intuitive tools and libraries and will blow your mind!",
     "logo": "https://qt-wiki-uploads.s3.amazonaws.com/images/thumb/4/4f/Qt-logo-medium.png/180px-Qt-logo-medium.png",
     "lnx_arm": {
         "version": null,
@@ -38,14 +38,14 @@
         }
     },
     "lnx_i386": {
-        "version": null,
-        "license": null,
+        "version": "1.0",
+        "license": "LGPL",
         "tags": [null],
         "silent": null,
         "md5": null,
-        "size": null,
+        "size": "33 MB",
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-linux-x86-online.run",
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -55,14 +55,14 @@
         }
     },
     "lnx_x86_64": {
-        "version": "4.4.1",
+        "version": "1.0",
         "license": "LGPL",
-        "tags": ["embedded","android","linux"],
+        "tags": [null],
         "silent": null,
         "md5": null,
-        "size": null,
+        "size": "31 MB",
         "urls" : {
-            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-linux-x86_64-4.4.1.run",
+            "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run",
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -72,14 +72,14 @@
         }
     },
     "osx_x86_64": {
-        "version": "4.4.1",
+        "version": "1.0",
         "license": "LGPL",
-        "tags": ["embedded","android","ios"],
-        "silent": true,
+        "tags": [null],
+        "silent": null,
         "md5": null,
-        "size": "117 MB",
+        "size": "12 MB",
         "urls" : {
-            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-mac-x86_64-4.4.1.dmg",
+            "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-mac-x64-online.dmg",
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -89,14 +89,14 @@
         }
     },
     "win_i386": {
-        "version": "4.4.1",
+        "version": "1.0",
         "license": "LGPL",
-        "tags": ["embedded","android","windows"],
-        "silent": true,
+        "tags": [null],
+        "silent": null,
         "md5": null,
-        "size": "115 MB",
+        "size": "17 MB",
         "urls" : {
-            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86-4.4.1.exe",
+            "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe",
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -106,14 +106,14 @@
         }
     },
     "win_x86_64": {
-        "version": "4.4.1",
+        "version": "1.0",
         "license": "LGPL",
-        "tags": ["embedded","android","windows"],
-        "silent": true,
+        "tags": [null],
+        "silent": null,
         "md5": null,
-        "size": "126 MB",
+        "size": "17 MB",
         "urls" : {
-            "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86_64-4.4.1.exe",
+            "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe",
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",

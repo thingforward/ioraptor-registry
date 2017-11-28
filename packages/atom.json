@@ -1,0 +1,125 @@
+{
+    "name": "ATOM",
+    "type": "IDE",
+    "info": "Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/2000px-Atom_editor_logo.svg.png",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "http://to/script.sh",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "http://to/script.sh",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "1.22.1",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "78 MB",
+        "urls" : {
+            "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/atom-amd64.deb",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "1.22.1",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "129 MB",
+        "urls" : {
+            "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/atom-mac.zip",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "1.22.1",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "122 MB",
+        "urls" : {
+            "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/AtomSetup.exe",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "1.22.1",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "133 MB",
+        "urls" : {
+            "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/AtomSetup-x64.exe",
+            "info" : {
+                "mainpage": "https://atom.io/",
+                "documenation": "https://atom.io/docs",
+                "tutorial": "https://flight-manual.atom.io/",
+                "community": "https://discuss.atom.io/"
+            }
+        }
+    }
+}
