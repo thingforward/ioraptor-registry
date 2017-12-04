@@ -1,7 +1,7 @@
 {
     "name": "Qt Creator",
     "type": "IDE",
-    "info": "Raptor recommended IDE!",
+    "info": "Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment which is part of the SDK for the Qt GUI Application development framework. It includes a visual debugger and an integrated GUI layout and forms designer.",
     "logo": "https://qt-wiki-uploads.s3.amazonaws.com/images/thumb/4/4f/Qt-logo-medium.png/180px-Qt-logo-medium.png",
     "lnx_arm": {
         "version": null,
