@@ -1,13 +1,13 @@
 #ioRaptor available packages
-https://registry.ioraptor.thingforward.io/ioraptor/packages/qtcreator.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/qt.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/atom.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/eclipse.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/slack.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/wireshark.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/doxygen.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/python3.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/python27.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/yotta.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/git.json
-https://registry.ioraptor.thingforward.io/ioraptor/packages/platformio.json
+https://registry.ioraptor.thingforward.io/packages/qtcreator.json
+https://registry.ioraptor.thingforward.io/packages/qt.json
+https://registry.ioraptor.thingforward.io/packages/atom.json
+https://registry.ioraptor.thingforward.io/packages/eclipse.json
+https://registry.ioraptor.thingforward.io/packages/slack.json
+https://registry.ioraptor.thingforward.io/packages/wireshark.json
+https://registry.ioraptor.thingforward.io/packages/doxygen.json
+https://registry.ioraptor.thingforward.io/packages/python3.json
+https://registry.ioraptor.thingforward.io/packages/python27.json
+https://registry.ioraptor.thingforward.io/packages/yotta.json
+https://registry.ioraptor.thingforward.io/packages/git.json
+https://registry.ioraptor.thingforward.io/packages/platformio.json
