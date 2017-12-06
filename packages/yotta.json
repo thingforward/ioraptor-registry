@@ -73,7 +73,7 @@
     },
     "osx_x86_64": {
         "version": "004",
-        "license": "Apache-2.0",
+        "license": "Apache 2.0",
         "tags": [null],
         "silent": true,
         "md5": "2c959c6ba4ffed23bd102c4e92095fa9",
@@ -90,7 +90,7 @@
     },
     "win_i386": {
         "version": "023",
-        "license": "Apache-2.0",
+        "license": "Apache 2.0",
         "tags": ["embedded","android","windows"],
         "silent": true,
         "md5": "fff688dc4968ec80bbb0eedf45de82db",
@@ -107,7 +107,7 @@
     },
     "win_x86_64": {
         "version": "023",
-        "license": "Apache-2.0",
+        "license": "Apache 2.0",
         "tags": [null],
         "silent": true,
         "md5": "370014d73c3059f610c27365def62058",

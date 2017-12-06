@@ -1,0 +1,125 @@
+{
+    "name": "Android NDK",
+    "type": "Backend",
+    "info": "Android software development is the process by which new applications are created for devices running the Android operating system.",
+    "logo": "https://developer.android.com/images/brand/Android_Robot_200.png",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "r16",
+        "license": "Apache 2.0",
+        "tags": ["android"],
+        "silent": null,
+        "md5": null,
+        "size": "852 MB",
+        "urls" : {
+            "executable" : "https://dl.google.com/android/repository/android-ndk-r16-linux-x86_64.zip",
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "r16",
+        "license": "Apache 2.0",
+        "tags": ["android"],
+        "silent": null,
+        "md5": null,
+        "size": "839 MB",
+        "urls" : {
+            "executable" : "https://dl.google.com/android/repository/android-ndk-r16-darwin-x86_64.zip",
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "r16",
+        "license": "Apache 2.0",
+        "tags": ["android"],
+        "silent": null,
+        "md5": null,
+        "size": "656 MB",
+        "urls" : {
+            "executable" : "https://dl.google.com/android/repository/android-ndk-r16-windows-x86.zip",
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "r16",
+        "license": "Apache 2.0",
+        "tags": ["android"],
+        "silent": null,
+        "md5": null,
+        "size": "722 MB",
+        "urls" : {
+            "executable" : "https://dl.google.com/android/repository/android-ndk-r16-windows-x86_64.zip",
+            "info" : {
+                "mainpage": "https://developer.android.com/ndk/downloads/index.html",
+                "documenation": "https://developer.android.com/ndk/reference/index.html",
+                "tutorial": "https://developer.android.com/ndk/guides/index.html",
+                "community": "https://plus.google.com/communities/105153134372062985968"
+            }
+        }
+    }
+}
