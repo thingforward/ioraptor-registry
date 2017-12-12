@@ -75,7 +75,7 @@
         "version": "2.15.0",
         "license": "MIT",
         "tags": [null],
-        "silent": true,
+        "silent": null,
         "md5": null,
         "size": "29 MB",
         "urls" : {
@@ -92,7 +92,7 @@
         "version": "2.15.0",
         "license": "MIT",
         "tags": [null],
-        "silent": true,
+        "silent": null,
         "md5": null,
         "size": "37 MB",
         "urls" : {
@@ -109,7 +109,7 @@
         "version": "2.15.0",
         "license": "MIT",
         "tags": [null],
-        "silent": true,
+        "silent": null,
         "md5": null,
         "size": "37 MB",
         "urls" : {

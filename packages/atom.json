@@ -11,7 +11,7 @@
         "md5": null,
         "size": null,
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : null,
             "info" : {
                 "mainpage": "https://atom.io/",
                 "documenation": "https://atom.io/docs",
@@ -28,7 +28,7 @@
         "md5": null,
         "size": null,
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : null,
             "info" : {
                 "mainpage": "https://atom.io/",
                 "documenation": "https://atom.io/docs",

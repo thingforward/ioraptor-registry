@@ -56,7 +56,7 @@
     },
     "lnx_x86_64": {
         "version": "2.8.2",
-        "license": "",
+        "license": "Proprietary",
         "tags": [null],
         "silent": null,
         "md5": null,
@@ -73,7 +73,7 @@
     },
     "osx_x86_64": {
         "version": "2.8.2",
-        "license": "",
+        "license": "Proprietary",
         "tags": [null],
         "silent": true,
         "md5": null,
@@ -90,8 +90,8 @@
     },
     "win_i386": {
         "version": "2.8.2",
-        "license": "",
-        "tags": ["embedded","android","windows"],
+        "license": "Proprietary",
+        "tags": [null],
         "silent": true,
         "md5": null,
         "size": "60 MB",
@@ -107,7 +107,7 @@
     },
     "win_x86_64": {
         "version": "2.8.2",
-        "license": "",
+        "license": "Proprietary",
         "tags": [null],
         "silent": true,
         "md5": null,

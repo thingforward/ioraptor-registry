@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "2.4.2",
         "license": "GPLv2",
-        "tags": ["embedded","android","windows"],
+        "tags": [null],
         "silent": true,
         "md5": null,
         "size": "50 MB",

@@ -11,7 +11,7 @@
         "md5": null,
         "size": null,
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : null,
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -28,7 +28,7 @@
         "md5": null,
         "size": null,
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : null,
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -45,7 +45,7 @@
         "md5": null,
         "size": null,
         "urls" : {
-            "executable" : "http://to/script.sh",
+            "executable" : null,
             "info" : {
                 "mainpage": "https://www.qt.io/",
                 "documenation": "https://doc.qt.io/qtcreator/index.html",
@@ -57,7 +57,7 @@
     "lnx_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": ["embedded","android","linux"],
+        "tags": ["embedded","android"],
         "silent": null,
         "md5": null,
         "size": null,
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": ["embedded","android","windows"],
+        "tags": ["embedded","android"],
         "silent": true,
         "md5": null,
         "size": "115 MB",
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": ["embedded","android","windows"],
+        "tags": ["embedded","android"],
         "silent": true,
         "md5": null,
         "size": "126 MB",

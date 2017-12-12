@@ -74,7 +74,7 @@
     "osx_x86_64": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": ["android"],
+        "tags": ["android", "mobile"],
         "silent": null,
         "md5": null,
         "size": "839 MB",
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": ["android"],
+        "tags": ["android", "mobile"],
         "silent": null,
         "md5": null,
         "size": "656 MB",
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": ["android"],
+        "tags": ["android", "mobile"],
         "silent": null,
         "md5": null,
         "size": "722 MB",
