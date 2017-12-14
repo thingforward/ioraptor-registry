@@ -1,4 +1,4 @@
 # ioraptor-registry
-Registry for IORaptoR Components
+Registry for IORaptor Components
 
 (C) 2017 Digital Incubation & Growth GmbH
