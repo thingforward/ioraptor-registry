@@ -1,0 +1,125 @@
+{
+    "name": "Visual Studio Code",
+    "type": "IDE",
+    "info": "Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.",
+    "logo": "https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": null,
+                "documenation": null,
+                "tutorial": null,
+                "community": null,
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": null,
+                "documenation": null,
+                "tutorial": null,
+                "community": null,
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "1.19",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "45 MB",
+        "urls" : {
+            "executable" : "https://go.microsoft.com/fwlink/?LinkID=760680",
+            "info" : {
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "1.19",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "45 MB",
+        "urls" : {
+            "executable" : "https://go.microsoft.com/fwlink/?LinkID=760868",
+            "info" : {
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "1.19",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "68 MB",
+        "urls" : {
+            "executable" : "https://go.microsoft.com/fwlink/?LinkID=620882",
+            "info" : {
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "1.19",
+        "license": "MIT",
+        "tags": [null],
+        "silent": true,
+        "md5": null,
+        "size": "40 MB",
+        "urls" : {
+            "executable" : "https://go.microsoft.com/fwlink/?LinkID=623230",
+            "info" : {
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "1.19",
+        "license": "MIT",
+        "tags": [null],
+        "silent": null,
+        "md5": null,
+        "size": "45 MB",
+        "urls" : {
+            "executable" : "https://go.microsoft.com/fwlink/?Linkid=852157",
+            "info" : {
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
+            }
+        }
+    }
+}

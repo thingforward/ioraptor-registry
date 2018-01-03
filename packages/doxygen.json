@@ -6,7 +6,7 @@
     "lnx_arm": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": "5 MB",
@@ -23,7 +23,7 @@
     "lnx_arm64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": "5 MB",
@@ -40,7 +40,7 @@
     "lnx_i386": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": "5 MB",
@@ -57,7 +57,7 @@
     "lnx_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": "16 MB",
@@ -74,7 +74,7 @@
     "osx_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": true,
         "md5": null,
         "size": "55 MB",
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": ["embedded","android","windows"],
+        "tags": "embedded,android,windows",
         "silent": true,
         "md5": null,
         "size": "24 MB",
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": [null],
+        "tags": null,
         "silent": true,
         "md5": null,
         "size": "24 MB",

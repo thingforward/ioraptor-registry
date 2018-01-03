@@ -6,7 +6,7 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
@@ -23,7 +23,7 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
@@ -40,7 +40,7 @@
     "lnx_i386": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
@@ -57,7 +57,7 @@
     "lnx_x86_64": {
         "version": "2.8.2",
         "license": "Proprietary",
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": "50 MB",
@@ -74,7 +74,7 @@
     "osx_x86_64": {
         "version": "2.8.2",
         "license": "Proprietary",
-        "tags": [null],
+        "tags": null,
         "silent": true,
         "md5": null,
         "size": "46 MB",
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "2.8.2",
         "license": "Proprietary",
-        "tags": [null],
+        "tags": null,
         "silent": true,
         "md5": null,
         "size": "60 MB",
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "2.8.2",
         "license": "Proprietary",
-        "tags": [null],
+        "tags": null,
         "silent": true,
         "md5": null,
         "size": "70 MB",

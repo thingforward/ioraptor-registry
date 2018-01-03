@@ -6,7 +6,7 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
@@ -23,7 +23,7 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
@@ -40,7 +40,7 @@
     "lnx_i386": {
         "version": null,
         "license": null,
-        "tags": [null],
+        "tags": null,
         "silent": null,
         "md5": null,
         "size": null,
