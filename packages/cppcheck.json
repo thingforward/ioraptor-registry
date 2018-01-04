@@ -1,0 +1,125 @@
+{
+    "name": "CPPCheck",
+    "type": "AgileTesting",
+    "info": "Cppcheck is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. The goal is to detect only real errors in the code (i.e. have very few false positives).",
+    "logo": "https://fossies.org/windows/misc/cppcheck-1.81.zip/cppcheck-1.81/gui/cppcheck-gui.svg",
+    "lnx_arm": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "2 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "2 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "2 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "2 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "2 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "8 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81-x86-Setup.msi",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "1.8.1",
+        "license": "GPLv3",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "10 MB",
+        "urls" : {
+            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81-x64-Setup.msi",
+            "info" : {
+                "mainpage": "http://cppcheck.sourceforge.net/",
+                "documenation": "http://cppcheck.sourceforge.net/#documentation",
+                "tutorial": "http://cppcheck.sourceforge.net/demo/",
+                "community": "https://sourceforge.net/p/cppcheck/discussion/"
+            }
+        }
+    }
+}

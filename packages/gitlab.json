@@ -1,0 +1,125 @@
+{
+    "name": "Gitlab",
+    "type": "CodeManagement",
+    "info": "GitLab is a web-based Git repository manager with wiki and issue tracking features, using an open source license, developed by GitLab Inc. The software was written by Dmitriy Zaporozhets and Valery Sizov from Ukraine. The code is written in Ruby.",
+    "logo": "https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png",
+    "lnx_arm": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "latest",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
+            "info" : {
+                "mainpage": "https://about.gitlab.com/",
+                "documenation": "https://docs.gitlab.com/",
+                "tutorial": "https://docs.gitlab.com/ee/ci/quick_start/README.html",
+                "community": "https://about.gitlab.com/community/"
+            }
+        }
+    }
+}

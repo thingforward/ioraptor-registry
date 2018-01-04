@@ -1,0 +1,125 @@
+{
+    "name": "ARM mbed cli",
+    "type": "ToolchainManagement",
+    "info": "Arm Mbed CLI is the name of the Arm Mbed command-line tool, packaged as mbed-cli. Mbed CLI enables Git- and Mercurial-based version control, dependencies management, code publishing, support for remotely hosted repositories (GitHub, GitLab and mbed.org), use of the Arm Mbed OS build system and export functions and other operations.",
+    "logo": "https://exosite.com/wp-content/uploads/2017/06/ARMmbedLogo2-1170x316.png",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "0.4.1",
+        "license": "Apache 2.0",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "61 KB",
+        "urls" : {
+            "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "0.4.1",
+        "license": "Apache 2.0",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "61 KB",
+        "urls" : {
+            "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "0.4.1",
+        "license": "Apache 2.0",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "61 KB",
+        "urls" : {
+            "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "0.4.1",
+        "license": "Apache 2.0",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "143 MB",
+        "urls" : {
+            "executable" : "https://mbed-media.mbed.com/filer_public/7f/46/7f46e205-52f5-48e2-be64-8f30d52f6d75/mbed_installer_v041.exe",
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "0.4.1",
+        "license": "Apache 2.0",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "143 MB",
+        "urls" : {
+            "executable" : "https://mbed-media.mbed.com/filer_public/7f/46/7f46e205-52f5-48e2-be64-8f30d52f6d75/mbed_installer_v041.exe",
+            "info" : {
+                "mainpage": "https://github.com/ARMmbed/mbed-cli",
+                "documenation": "https://github.com/ARMmbed/mbed-cli",
+                "tutorial": "https://github.com/ARMmbed/mbed-cli",
+                "community": "https://github.com/ARMmbed/mbed-cli"
+            }
+        }
+    }
+}

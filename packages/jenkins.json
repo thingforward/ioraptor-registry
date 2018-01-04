@@ -1,0 +1,125 @@
+{
+    "name": "Jenkins",
+    "type": "ContinuousIntegration",
+    "info": "Jenkins is an open source automation server written in Java. Jenkins helps to automate the non-human part of software development process, with continuous integration and facilitating technical aspects of continuous delivery.",
+    "logo": "https://wiki.jenkins.io/download/attachments/2916393/logo.png?version=1&modificationDate=1302753947000&api=v2",
+    "lnx_arm": {
+        "version": null,
+        "license": null,
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": null,
+        "license": null,
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : null,
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "2.89.2",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://pkg.jenkins.io/debian-stable/binary/jenkins_2.89.2_all.deb",
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "2.89.2",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "https://pkg.jenkins.io/debian-stable/binary/jenkins_2.89.2_all.deb",
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "2.89.2",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "http://ftp-nyc.osuosl.org/pub/jenkins/osx-stable/jenkins-2.89.2.pkg",
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "2.89.2",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "http://ftp-chi.osuosl.org/pub/jenkins/windows-stable/jenkins-2.89.2.zip",
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "2.89.2",
+        "license": "MIT",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": null,
+        "urls" : {
+            "executable" : "http://ftp-chi.osuosl.org/pub/jenkins/windows-stable/jenkins-2.89.2.zip",
+            "info" : {
+                "mainpage": "https://jenkins.io",
+                "documenation": "https://jenkins.io/doc/",
+                "tutorial": "https://jenkins.io/doc/book/getting-started/",
+                "community": "https://jenkins.io/chat/"
+            }
+        }
+    }
+}

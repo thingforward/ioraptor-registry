@@ -1,0 +1,125 @@
+{
+    "name": "Catch2",
+    "type": "AgileTesting",
+    "info": "Catch2 stands for C++ Automated Test Cases in a Header and is a multi-paradigm test framework for C++. which also supports Objective-C (and maybe C). It is primarily distributed as a single header file, although certain extensions may require additional headers.",
+    "logo": "https://raw.githubusercontent.com/catchorg/Catch2/master/artwork/catch2-logo-small.png",
+    "lnx_arm": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "2.0.1",
+        "license": "BOOST Software License",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "408 KB",
+        "urls" : {
+            "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
+            "info" : {
+                "mainpage": "https://github.com/catchorg/Catch2",
+                "documenation": "https://github.com/catchorg/Catch2",
+                "tutorial": "https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md#top",
+                "community": "https://github.com/catchorg/Catch2"
+            }
+        }
+    }
+}
