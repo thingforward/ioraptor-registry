@@ -5,11 +5,11 @@
     "logo": null,
     "lnx_arm": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -22,11 +22,11 @@
     },
     "lnx_arm64": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -39,11 +39,11 @@
     },
     "lnx_i386": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -56,11 +56,11 @@
     },
     "lnx_x86_64": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -73,11 +73,11 @@
     },
     "osx_x86_64": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -90,11 +90,11 @@
     },
     "win_i386": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": true,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
@@ -107,11 +107,11 @@
     },
     "win_x86_64": {
         "version": "latest",
-        "license": "MIT",        
+        "license": "MIT",
         "tags": null,
         "silent": null,
         "md5": null,
-        "size": "? MB",
+        "size": null,
         "urls" : {
             "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
             "info" : {
