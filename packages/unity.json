@@ -1,0 +1,125 @@
+{
+    "name": "Unity",
+    "type": "AgileTesting",
+    "info": "Unity is a helper library for writing and running unit tests in C, 'especially for embedded software'.",
+    "logo": null,
+    "lnx_arm": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": true,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "latest",
+        "license": "MIT",        
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "? MB",
+        "urls" : {
+            "executable" : "https://github.com/ThrowTheSwitch/Unity/archive/master.zip",
+            "info" : {
+                "mainpage": "http://www.throwtheswitch.org/unity",
+                "documenation": "http://www.throwtheswitch.org/unity",
+                "tutorial": "http://www.throwtheswitch.org/unity",
+                "community": "https://github.com/ThrowTheSwitch/Unity/issues"
+            }
+        }
+    }
+}

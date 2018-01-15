@@ -1,0 +1,124 @@
+{
+    "name": "Valgrind",
+    "type": "AgileTesting",
+    "info": "Valgrind was originally designed to be a free memory debugging tool for Linux on x86, but has since evolved to become a generic framework for creating dynamic analysis tools such as checkers and profilers.",
+    "logo": "http://www.valgrind.org/images/valgrind-100.png",
+    "lnx_arm": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "3.13.0",
+        "license": "GPLv2",
+        "tags": null,
+        "silent": null,
+        "md5": null,
+        "size": "15 MB",
+        "urls" : {
+            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "info" : {
+                "mainpage": "http://www.valgrind.org",
+                "documenation": "http://www.valgrind.org/docs/manual/manual.html",
+                "tutorial": "http://www.valgrind.org/docs/manual/QuickStart.html",
+                "community": "http://www.valgrind.org/help/"
+            }
+        }
+}
