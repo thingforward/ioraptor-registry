@@ -13,10 +13,10 @@
         "urls" : {
             "executable" : null,
             "info" : {
-                "mainpage": null,
-                "documenation": null,
-                "tutorial": null,
-                "community": null,
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
             }
         }
     },
@@ -30,10 +30,10 @@
         "urls" : {
             "executable" : null,
             "info" : {
-                "mainpage": null,
-                "documenation": null,
-                "tutorial": null,
-                "community": null,
+                "mainpage": "https://code.visualstudio.com",
+                "documenation": "https://code.visualstudio.com/docs",
+                "tutorial": "https://code.visualstudio.com/docs/introvideos/basics",
+                "community": "https://code.visualstudio.com/community"
             }
         }
     },
