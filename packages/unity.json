@@ -2,7 +2,7 @@
     "name": "Unity",
     "type": "AgileTesting",
     "info": "Unity is a helper library for writing and running unit tests in C, 'especially for embedded software'.",
-    "logo": null,
+    "logo": "",
     "lnx_arm": {
         "version": "latest",
         "license": "MIT",        
