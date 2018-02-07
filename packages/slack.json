@@ -1,6 +1,6 @@
 {
     "name": "Slack",
-    "type": "Other",
+    "type": "AgileProcessTooling",
     "info": "Slack is a cloud-based set of team collaboration tools and services, founded by Stewart Butterfield. Slack began as an internal tool used by their company, Tiny Speck, in the development of Glitch, a now defunct online game.",
     "logo": "https://cdn.worldvectorlogo.com/logos/slack-1.svg",
     "lnx_arm": {
