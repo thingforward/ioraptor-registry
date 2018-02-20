@@ -6,7 +6,7 @@
     "lnx_arm": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -23,7 +23,7 @@
     "lnx_arm64": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -40,7 +40,7 @@
     "lnx_i386": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -57,7 +57,7 @@
     "lnx_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -74,7 +74,7 @@
     "osx_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": null,

@@ -96,7 +96,7 @@
         "md5": null,
         "size": "37 MB",
         "urls" : {
-            "executable" : "https://github-production-release-asset-2e65be.s3.amazonaws.com/23216272/5868c6dc-bd6d-11e7-907b-2414f8344faf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20171122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20171122T155223Z&X-Amz-Expires=300&X-Amz-Signature=d5faf9ad36774269bec9c6d7122beb6f35b282768858b0e9771b45c4b90ba626&X-Amz-SignedHeaders=host&actor_id=32090297&response-content-disposition=attachment%3B%20filename%3DGit-2.15.0-32-bit.exe&response-content-type=application%2Foctet-stream",
+            "executable" : "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.4/Git-2.16.1.4-32-bit.exe",
             "info" : {
                 "mainpage": "https://git-scm.com",
                 "documenation": "https://git-scm.com/doc",
@@ -113,7 +113,7 @@
         "md5": null,
         "size": "37 MB",
         "urls" : {
-            "executable" : "https://github-production-release-asset-2e65be.s3.amazonaws.com/23216272/503f5ade-bd6d-11e7-91ab-b3405ddf16bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20171122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20171122T155213Z&X-Amz-Expires=300&X-Amz-Signature=95bff4dded45281b3483e21bafd1b7e92f61388ee2640efa88a9d85c8587e712&X-Amz-SignedHeaders=host&actor_id=32090297&response-content-disposition=attachment%3B%20filename%3DGit-2.15.0-64-bit.exe&response-content-type=application%2Foctet-stream",
+            "executable" : "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.4/Git-2.16.1.4-64-bit.exe",
             "info" : {
                 "mainpage": "https://git-scm.com",
                 "documenation": "https://git-scm.com/doc",

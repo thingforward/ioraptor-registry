@@ -6,12 +6,12 @@
     "lnx_arm": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -23,12 +23,12 @@
     "lnx_arm64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -40,12 +40,12 @@
     "lnx_i386": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -57,12 +57,12 @@
     "lnx_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -74,12 +74,12 @@
     "osx_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -91,12 +91,12 @@
     "win_i386": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",
@@ -108,12 +108,12 @@
     "win_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "15 MB",
         "urls" : {
-            "executable" : "ftp://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
+            "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
                 "mainpage": "http://www.valgrind.org",
                 "documenation": "http://www.valgrind.org/docs/manual/manual.html",

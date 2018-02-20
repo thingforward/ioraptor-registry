@@ -2,16 +2,16 @@
     "name": "CPPCheck",
     "type": "AgileTesting",
     "info": "Cppcheck is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. The goal is to detect only real errors in the code (i.e. have very few false positives).",
-    "logo": "https://fossies.org/windows/misc/cppcheck-1.81.zip/cppcheck-1.81/gui/cppcheck-gui.svg",
+    "logo": "https://fossies.org/windows/misc/cppcheck-1.82.zip/cppcheck-1.82/gui/cppcheck-gui.svg",
     "lnx_arm": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "2 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "executable" : "https://github.com/danmar/cppcheck/archive/1.82.zip",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -21,14 +21,14 @@
         }
     },
     "lnx_arm64": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "2 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "executable" : "https://github.com/danmar/cppcheck/archive/1.82.zip",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -38,14 +38,14 @@
         }
     },
     "lnx_i386": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "2 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "executable" : "https://github.com/danmar/cppcheck/archive/1.82.zip",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -55,14 +55,14 @@
         }
     },
     "lnx_x86_64": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "2 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "executable" : "https://github.com/danmar/cppcheck/archive/1.82.zip",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -72,14 +72,14 @@
         }
     },
     "osx_x86_64": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "2 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81.zip",
+            "executable" : "https://github.com/danmar/cppcheck/archive/1.82.zip",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -89,14 +89,14 @@
         }
     },
     "win_i386": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "8 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81-x86-Setup.msi",
+            "executable" : "https://github.com/danmar/cppcheck/releases/download/1.82/cppcheck-1.82-x86-Setup.msi",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",
@@ -106,14 +106,14 @@
         }
     },
     "win_x86_64": {
-        "version": "1.8.1",
+        "version": "1.8.2",
         "license": "GPLv3",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "10 MB",
         "urls" : {
-            "executable" : "http://github.com/danmar/cppcheck/releases/download/1.81/cppcheck-1.81-x64-Setup.msi",
+            "executable" : "https://github.com/danmar/cppcheck/releases/download/1.82/cppcheck-1.82-x64-Setup.msi",
             "info" : {
                 "mainpage": "http://cppcheck.sourceforge.net/",
                 "documenation": "http://cppcheck.sourceforge.net/#documentation",

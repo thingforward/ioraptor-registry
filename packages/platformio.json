@@ -6,7 +6,7 @@
     "lnx_arm": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "1 MB",
@@ -23,7 +23,7 @@
     "lnx_arm64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "1 MB",
@@ -40,7 +40,7 @@
     "lnx_i386": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "1 MB",
@@ -57,7 +57,7 @@
     "lnx_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "starter01",
         "silent": null,
         "md5": null,
         "size": "1 MB",
@@ -74,7 +74,7 @@
     "osx_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "starter01",
         "silent": true,
         "md5": null,
         "size": "1 MB",
@@ -91,7 +91,7 @@
     "win_i386": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "embedded,android,windows",
+        "tags": "embedded,android,windows,starter01",
         "silent": true,
         "md5": null,
         "size": "1 MB",
@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": null,
+        "tags": "embedded,android,windows,starter01",
         "silent": true,
         "md5": null,
         "size": "1 MB",
