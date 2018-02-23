@@ -45,7 +45,7 @@
         "md5": null,
         "size": "45 MB",
         "urls" : {
-            "executable" : "https://go.microsoft.com/fwlink/?LinkID=760680",
+            "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/code_1.20.1-1518535974_i386.deb",
             "info" : {
                 "mainpage": "https://code.visualstudio.com",
                 "documenation": "https://code.visualstudio.com/docs",
@@ -62,7 +62,7 @@
         "md5": null,
         "size": "45 MB",
         "urls" : {
-            "executable" : "https://go.microsoft.com/fwlink/?LinkID=760868",
+            "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/code_1.20.1-1518535978_amd64.deb",
             "info" : {
                 "mainpage": "https://code.visualstudio.com",
                 "documenation": "https://code.visualstudio.com/docs",
@@ -79,7 +79,7 @@
         "md5": null,
         "size": "68 MB",
         "urls" : {
-            "executable" : "https://go.microsoft.com/fwlink/?LinkID=620882",
+            "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCode-darwin-stable.zip",
             "info" : {
                 "mainpage": "https://code.visualstudio.com",
                 "documenation": "https://code.visualstudio.com/docs",
@@ -96,7 +96,7 @@
         "md5": null,
         "size": "40 MB",
         "urls" : {
-            "executable" : "https://go.microsoft.com/fwlink/?LinkID=623230",
+            "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCodeSetup-ia32-1.20.1.exe",
             "info" : {
                 "mainpage": "https://code.visualstudio.com",
                 "documenation": "https://code.visualstudio.com/docs",
@@ -113,7 +113,7 @@
         "md5": null,
         "size": "45 MB",
         "urls" : {
-            "executable" : "https://go.microsoft.com/fwlink/?Linkid=852157",
+            "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCodeSetup-x64-1.20.1.exe",
             "info" : {
                 "mainpage": "https://code.visualstudio.com",
                 "documenation": "https://code.visualstudio.com/docs",
