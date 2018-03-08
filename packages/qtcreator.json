@@ -108,7 +108,7 @@
     "win_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": "embedded,android,starter01",
+        "tags": "embedded,android,starter01,test",
         "silent": true,
         "md5": null,
         "size": "126 MB",
