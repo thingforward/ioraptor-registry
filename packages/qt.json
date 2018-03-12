@@ -7,9 +7,7 @@
         "version": null,
         "license": null,
         "tags": null,
-        "silent": null,
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://to/script.sh",
             "info" : {
@@ -24,9 +22,7 @@
         "version": null,
         "license": null,
         "tags": null,
-        "silent": null,
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://to/script.sh",
             "info" : {

@@ -1,0 +1,111 @@
+{
+    "name": "slyft",
+    "type": "ToolchainManagement",
+    "info": "Slyft is a tool that simplifies and accelerates the implementation of service layers at the application level for IoT devices - thereby supporting the professional development of embedded software. So it's about communication between constrained, embedded devices.",
+    "logo": "http://www.slyft.io/typo3conf/ext/bm_frontend/Resources/Public/img/bgi/Slyft-Logo-black.png",
+    "lnx_arm": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://codeload.github.com/thingforward/slyft-cli/zip/master",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "lnx_arm64": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://codeload.github.com/thingforward/slyft-cli/zip/master",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "lnx_i386": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://codeload.github.com/thingforward/slyft-cli/zip/master",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "lnx_x86_64": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://codeload.github.com/thingforward/slyft-cli/zip/master",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "osx_x86_64": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://github.com/thingforward/slyft-cli/releases/download/0.3.3/slyft-0.3.3-darwin-x64_f9f1e980f9dbc2afd7c86339ef456bb2.zip",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "win_i386": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://github.com/thingforward/slyft-cli/releases/download/0.3.3/slyft-0.3.3-win32-ia32_f90897c7b9800dde00da777e76aa56ae.zip",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    },
+    "win_x86_64": {
+        "version": "0.3.3",
+        "license": "Apache License 2.0",
+        "tags": "iot, modeling, embedded, json, c99, arduino, coap, rest",
+        "md5": null,
+        "urls" : {
+            "executable" : "https://github.com/thingforward/slyft-cli/releases/download/0.3.3/slyft-0.3.3-win32-ia32_f90897c7b9800dde00da777e76aa56ae.zip",
+            "info" : {
+                "mainpage": "http://www.slyft.io",
+                "documenation": "http://www.slyft.io/docs/",
+                "tutorial": "http://www.slyft.io/docs/",
+                "community": "http://www.slyft.io/team/"
+            }
+        }
+    }
+}
