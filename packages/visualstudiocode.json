@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "1.19",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": "45 MB",
         "urls" : {
             "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/code_1.20.1-1518535974_i386.deb",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "1.19",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": "45 MB",
         "urls" : {
             "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/code_1.20.1-1518535978_amd64.deb",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "1.19",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": "68 MB",
         "urls" : {
             "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCode-darwin-stable.zip",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "1.19",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": true,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": "40 MB",
         "urls" : {
             "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCodeSetup-ia32-1.20.1.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "1.19",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, editor, source, debugging, git, refactoring, open-source, node",
         "md5": null,
-        "size": "45 MB",
         "urls" : {
             "executable" : "https://az764295.vo.msecnd.net/stable/f88bbf9137d24d36d968ea6b2911786bfe103002/VSCodeSetup-x64-1.20.1.exe",
             "info" : {

@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": "embedded,android,starter01",
-        "silent": null,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-linux-x86_64-4.4.1.run",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": "embedded,android,ios,starter01",
-        "silent": true,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "117 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-mac-x86_64-4.4.1.dmg",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": "embedded,android,starter01",
-        "silent": true,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "115 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86-4.4.1.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "4.4.1",
         "license": "LGPL",
-        "tags": "embedded,android,starter01,test",
-        "silent": true,
+        "tags": "starter01, cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "126 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/qtcreator/4.4/4.4.1/qt-creator-opensource-windows-x86_64-4.4.1.exe",
             "info" : {

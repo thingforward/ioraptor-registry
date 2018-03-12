@@ -4,14 +4,12 @@
     "info": "Python is a programming language that lets you work more quickly and integrate your systems more effectively",
     "logo": "https://www.python.org/static/community_logos/python-logo-inkscape.svg",
     "lnx_arm": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": null,
-        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
-        "size": "16 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "9de6494314ea199e3633211696735f65",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -21,14 +19,12 @@
         }
     },
     "lnx_arm64": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": null,
-        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
-        "size": "16 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "9de6494314ea199e3633211696735f65",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -38,14 +34,12 @@
         }
     },
     "lnx_i386": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": null,
-        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
-        "size": "16 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "9de6494314ea199e3633211696735f65",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -55,14 +49,12 @@
         }
     },
     "lnx_x86_64": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": null,
-        "md5": "e9180c69ed9a878a4a8a3ab221e32fa9",
-        "size": "16 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "9de6494314ea199e3633211696735f65",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -72,14 +64,12 @@
         }
     },
     "osx_x86_64": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": true,
-        "md5": "ce31f17c952c657244a5cd0cccae34ad",
-        "size": "22 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "9fba50521dffa9238ce85ad640abaa92",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3-macosx10.6.pkg",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/python-3.6.4-macosx10.6.pkg",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -89,14 +79,12 @@
         }
     },
     "win_i386": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": "embedded,android,windows",
-        "silent": true,
-        "md5": "3811c6d3203358e0c0c6b6677ae980d3",
-        "size": "18 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "67e1a9bb336a5eca0efcd481c9f262a4",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3.exe",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",
@@ -106,14 +94,12 @@
         }
     },
     "win_x86_64": {
-        "version": "3.6.3",
-        "license": "",
-        "tags": null,
-        "silent": true,
-        "md5": "89044fb577636803bf49f36371dca09c",
-        "size": "19 MB",
+        "version": "3.6.4",
+        "license": "PSF",
+        "tags": "scripting, high-level, object-oriented, imperative, functional, procedural",
+        "md5": "bee5746dc6ece6ab49573a9f54b5d0a1",
         "urls" : {
-            "executable" : "https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe",
+            "executable" : "https://www.python.org/ftp/python/3.6.4/python-3.6.4-amd64.exe",
             "info" : {
                 "mainpage": "https://www.python.org/",
                 "documenation": "https://www.python.org/doc/",

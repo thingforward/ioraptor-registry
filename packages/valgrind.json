@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "3.13.0",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, memory, error, profiler, heap, stack, overrun, SimPoint, Linux, arm, ppc, mips, Solaris, Android, Darwin",
         "md5": null,
-        "size": "15 MB",
         "urls" : {
             "executable" : "http://sourceware.org/pub/valgrind/valgrind-3.13.0.tar.bz2",
             "info" : {

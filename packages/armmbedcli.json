@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "0.4.1",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": "61 KB",
         "urls" : {
             "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "0.4.1",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": "61 KB",
         "urls" : {
             "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "0.4.1",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": "61 KB",
         "urls" : {
             "executable" : "https://github.com/ARMmbed/mbed-cli/archive/master.zip",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "0.4.1",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": "143 MB",
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/7f/46/7f46e205-52f5-48e2-be64-8f30d52f6d75/mbed_installer_v041.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "0.4.1",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, iot, cortex, hdk, rtos",
         "md5": null,
-        "size": "143 MB",
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/7f/46/7f46e205-52f5-48e2-be64-8f30d52f6d75/mbed_installer_v041.exe",
             "info" : {

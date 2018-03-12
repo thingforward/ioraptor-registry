@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "starter01",
-        "silent": true,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "embedded,android,windows,starter01",
-        "silent": true,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "3.5.0a16",
         "license": "Apache 2.0",
-        "tags": "embedded,android,windows,starter01",
-        "silent": true,
+        "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
-        "size": "1 MB",
         "urls" : {
             "executable" : null,
             "info" : {

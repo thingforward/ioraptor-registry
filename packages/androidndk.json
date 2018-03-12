@@ -7,9 +7,7 @@
         "version": null,
         "license": null,
         "tags": null,
-        "silent": null,
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -24,9 +22,7 @@
         "version": null,
         "license": null,
         "tags": null,
-        "silent": null,
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -41,9 +37,7 @@
         "version": null,
         "license": null,
         "tags": null,
-        "silent": null,
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -58,9 +52,7 @@
         "version": "r16",
         "license": "Apache 2.0",
         "tags": "android",
-        "silent": null,
         "md5": null,
-        "size": "852 MB",
         "urls" : {
             "executable" : "https://dl.google.com/android/repository/android-ndk-r16-linux-x86_64.zip",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": "android, mobile",
-        "silent": null,
+        "tags": "android, mobile, native, c++",
         "md5": null,
-        "size": "839 MB",
         "urls" : {
             "executable" : "https://dl.google.com/android/repository/android-ndk-r16-darwin-x86_64.zip",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": "android, mobile",
-        "silent": null,
+        "tags": "android, mobile, native, c++",
         "md5": null,
-        "size": "656 MB",
         "urls" : {
             "executable" : "https://dl.google.com/android/repository/android-ndk-r16-windows-x86.zip",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "r16",
         "license": "Apache 2.0",
-        "tags": "android, mobile",
-        "silent": null,
+        "tags": "android, mobile, native, c++",
         "md5": null,
-        "size": "722 MB",
         "urls" : {
             "executable" : "https://dl.google.com/android/repository/android-ndk-r16-windows-x86_64.zip",
             "info" : {

@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "5 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "5 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "5 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.src.tar.gz",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "16 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13.linux.bin.tar.gz",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "starter01",
-        "silent": true,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "55 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/Doxygen-1.8.13.dmg",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "embedded,android,windows,starter01",
-        "silent": true,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "24 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13-setup.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "1.8.13",
         "license": "GPLv2",
-        "tags": "embedded,android,windows,starter01",
-        "silent": true,
+        "tags": "starter01, c++, Objective-C, c#, PHP, Java, Python, IDL, Fortran, VHDL, Tcl, html, latex, pdf, postscript, man, rtf",
         "md5": null,
-        "size": "24 MB",
         "urls" : {
             "executable" : "http://ftp.stack.nl/pub/users/dimitri/doxygen-1.8.13-setup.exe",
             "info" : {

@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "2.15.0",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": "29 MB",
         "urls" : {
             "executable" : "https://kent.dl.sourceforge.net/project/git-osx-installer/git-2.15.0-intel-universal-mavericks.dmg",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "2.15.0",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": "37 MB",
         "urls" : {
             "executable" : "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.4/Git-2.16.1.4-32-bit.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "2.15.0",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "source code, revision, version control",
         "md5": null,
-        "size": "37 MB",
         "urls" : {
             "executable" : "https://github.com/git-for-windows/git/releases/download/v2.16.1.windows.4/Git-2.16.1.4-64-bit.exe",
             "info" : {

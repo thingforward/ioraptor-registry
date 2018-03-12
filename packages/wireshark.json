@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": null,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "28 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": null,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "28 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": null,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "28 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": null,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "28 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": true,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "33 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/osx/Wireshark%202.4.4%20Intel%2064.dmg",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": true,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "50 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/win32/Wireshark-win32-2.4.4.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "2.4.4",
         "license": "GPLv2",
-        "tags": [null],
-        "silent": true,
+        "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
-        "size": "55 MB",
         "urls" : {
             "executable" : "https://1.eu.dl.wireshark.org/win64/Wireshark-win64-2.4.4.exe",
             "info" : {

@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "latest",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, source code, revision, version control",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://gitlab.com/gitlab-org/gitlab-ce/repository/master/archive.zip",
             "info" : {

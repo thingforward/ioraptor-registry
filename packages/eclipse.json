@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "4.7.1a",
         "license": "EPL",
-        "tags": null,
-        "silent": null,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": "46 MB",
         "urls" : {
             "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-linux32.tar.gz",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "4.7.1a",
         "license": "EPL",
-        "tags": null,
-        "silent": null,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": "46 MB",
         "urls" : {
             "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-linux64.tar.gz",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "4.7.1a",
         "license": "EPL",
-        "tags": null,
-        "silent": true,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": "46 MB",
         "urls" : {
             "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-mac64.tar.gz",
             "info" : {
@@ -91,7 +81,7 @@
     "win_i386": {
         "version": "4.7.1a",
         "license": "EPL",
-        "tags": "embedded,android,windows",
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "silent": true,
         "md5": null,
         "size": "46 MB",
@@ -108,10 +98,8 @@
     "win_x86_64": {
         "version": "4.7.1a",
         "license": "EPL",
-        "tags": null,
-        "silent": true,
+        "tags": "java, Ada, ABAP, C, C++, C#, COBOL, D, Fortran, Haskell, JavaScript, Julia, Lasso, Lua, NATURAL, Perl, PHP, Prolog, Python, R, Ruby, Rust, Scala, Clojure, Groovy, Scheme, Erlang, latex, mathematica, scala, c++",
         "md5": null,
-        "size": "46 MB",
         "urls" : {
             "executable" : "http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/oomph/epp/oxygen/R/eclipse-inst-win64.exe",
             "info" : {

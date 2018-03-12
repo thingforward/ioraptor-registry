@@ -40,10 +40,8 @@
     "lnx_i386": {
         "version": "1.0",
         "license": "LGPL",
-        "tags": null,
-        "silent": null,
+        "tags": "cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "33 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-linux-x86-online.run",
             "info" : {
@@ -57,10 +55,8 @@
     "lnx_x86_64": {
         "version": "1.0",
         "license": "LGPL",
-        "tags": null,
-        "silent": null,
+        "tags": "cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "31 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run",
             "info" : {
@@ -74,10 +70,8 @@
     "osx_x86_64": {
         "version": "1.0",
         "license": "LGPL",
-        "tags": null,
-        "silent": null,
+        "tags": "cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "12 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-mac-x64-online.dmg",
             "info" : {
@@ -91,10 +85,8 @@
     "win_i386": {
         "version": "1.0",
         "license": "LGPL",
-        "tags": null,
-        "silent": null,
+        "tags": "cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "17 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe",
             "info" : {
@@ -108,10 +100,8 @@
     "win_x86_64": {
         "version": "1.0",
         "license": "LGPL",
-        "tags": null,
-        "silent": null,
+        "tags": "cross-platform, open-source, Android, iOS, Linux, Embedded, Wayland, X11, macOS, Windows, Windows Phone, gui, qml, c++, Integrity, qnx",
         "md5": null,
-        "size": "17 MB",
         "urls" : {
             "executable" : "http://download.qt.io/official_releases/online_installers/qt-unified-windows-x86-online.exe",
             "info" : {

@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": null,
         "license": null,
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "1.22.1",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": "78 MB",
         "urls" : {
             "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/atom-amd64.deb",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "1.22.1",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": "129 MB",
         "urls" : {
             "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/atom-mac.zip",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "1.22.1",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": "122 MB",
         "urls" : {
             "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/AtomSetup.exe",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "1.22.1",
         "license": "MIT",
-        "tags": null,
-        "silent": null,
+        "tags": "git, node, C++, C#, Clojure, CSS, CoffeeScript, GitHub Flavored Markdown, Go, Git, HTML, JavaScript, Java, JSON, Julia, Less, Make, Mustache, Objective-C, PHP, Perl, Property List (Apple), Python, Ruby on Rails, Ruby, Sass, Shell script, Scala, SQL, TOML, XML, YAML",
         "md5": null,
-        "size": "133 MB",
         "urls" : {
             "executable" : "https://github.com/atom/atom/releases/download/v1.22.1/AtomSetup-x64.exe",
             "info" : {

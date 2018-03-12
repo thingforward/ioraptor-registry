@@ -6,10 +6,8 @@
     "lnx_arm": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -23,10 +21,8 @@
     "lnx_arm64": {
         "version": null,
         "license": null,
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : null,
             "info" : {
@@ -40,10 +36,8 @@
     "lnx_i386": {
         "version": "2.89.2",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://pkg.jenkins.io/debian-stable/binary/jenkins_2.89.2_all.deb",
             "info" : {
@@ -57,10 +51,8 @@
     "lnx_x86_64": {
         "version": "2.89.2",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "https://pkg.jenkins.io/debian-stable/binary/jenkins_2.89.2_all.deb",
             "info" : {
@@ -74,10 +66,8 @@
     "osx_x86_64": {
         "version": "2.89.2",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://ftp-nyc.osuosl.org/pub/jenkins/osx-stable/jenkins-2.89.2.pkg",
             "info" : {
@@ -91,10 +81,8 @@
     "win_i386": {
         "version": "2.89.2",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://ftp-chi.osuosl.org/pub/jenkins/windows-stable/jenkins-2.89.2.zip",
             "info" : {
@@ -108,10 +96,8 @@
     "win_x86_64": {
         "version": "2.89.2",
         "license": "MIT",
-        "tags": "starter01",
-        "silent": null,
+        "tags": "starter01, version control, AccuRev, CVS, Subversion, Git, Mercurial, Perforce, ClearCase, rtc, Ant, Maven, sbt",
         "md5": null,
-        "size": null,
         "urls" : {
             "executable" : "http://ftp-chi.osuosl.org/pub/jenkins/windows-stable/jenkins-2.89.2.zip",
             "info" : {
