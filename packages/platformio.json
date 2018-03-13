@@ -39,7 +39,7 @@
         "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
         "urls" : {
-            "executable" : null,
+            "executable" : "https://registry.ioraptor.thingforward.io/scripts/lnx_i386.platformio.sh",
             "info" : {
                 "mainpage": "http://platformio.org/",
                 "documenation": "http://docs.platformio.org/en/latest/",
@@ -54,7 +54,7 @@
         "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
         "urls" : {
-            "executable" : null,
+            "executable" : "https://registry.ioraptor.thingforward.io/scripts/lnx_x86_64.platformio.sh",
             "info" : {
                 "mainpage": "http://platformio.org/",
                 "documenation": "http://docs.platformio.org/en/latest/",
@@ -69,7 +69,7 @@
         "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
         "urls" : {
-            "executable" : null,
+            "executable" : "https://registry.ioraptor.thingforward.io/scripts/osx_x86_64.platformio.scpt",
             "info" : {
                 "mainpage": "http://platformio.org/",
                 "documenation": "http://docs.platformio.org/en/latest/",
@@ -84,7 +84,7 @@
         "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
         "urls" : {
-            "executable" : null,
+            "executable" : "https://registry.ioraptor.thingforward.io/scripts/win_i386.platformio.ps1",
             "info" : {
                 "mainpage": "http://platformio.org/",
                 "documenation": "http://docs.platformio.org/en/latest/",
@@ -99,7 +99,7 @@
         "tags": "starter01, embedded, arduino, arm, Eclipse, atom, qt, mbed, iot, visual studio, clion, emacs, netbeans, sublime, vim, vscode",
         "md5": null,
         "urls" : {
-            "executable" : null,
+            "executable" : "https://registry.ioraptor.thingforward.io/scripts/win_x86_64.platformio.ps1",
             "info" : {
                 "mainpage": "http://platformio.org/",
                 "documenation": "http://docs.platformio.org/en/latest/",
