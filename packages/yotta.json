@@ -71,7 +71,7 @@
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/91/56/91567e17-7a78-41ec-a998-4ee38e6274a2/yotta_osx_installer_v004.dmg",
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
