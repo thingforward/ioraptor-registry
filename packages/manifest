@@ -29,5 +29,9 @@
         "cb_entries" : [
             "LGPL Package"
         ]
+        "news" : [
+            { "name":"News Feed Live", "product":"ioRaptor", "description":"blabla", "url":"https://thingforward.io" },
+            { "name":"ioRaptor 0.2.5 Released!", "product":"ioRaptor", "description":"Finally we released v0.2.5 with it's news feed!", "url":"https://thingforward.io" }
+        ]
     }
 }
