@@ -1,22 +1,33 @@
-#ioRaptor available packages
-https://registry.ioraptor.thingforward.io/packages/qtcreator.json
-https://registry.ioraptor.thingforward.io/packages/qt.json
-https://registry.ioraptor.thingforward.io/packages/atom.json
-https://registry.ioraptor.thingforward.io/packages/eclipse.json
-https://registry.ioraptor.thingforward.io/packages/slack.json
-https://registry.ioraptor.thingforward.io/packages/wireshark.json
-https://registry.ioraptor.thingforward.io/packages/doxygen.json
-https://registry.ioraptor.thingforward.io/packages/python3.json
-https://registry.ioraptor.thingforward.io/packages/python27.json
-https://registry.ioraptor.thingforward.io/packages/yotta.json
-https://registry.ioraptor.thingforward.io/packages/git.json
-https://registry.ioraptor.thingforward.io/packages/platformio.json
-https://registry.ioraptor.thingforward.io/packages/androidndk.json
-https://registry.ioraptor.thingforward.io/packages/visualstudiocode.json
-https://registry.ioraptor.thingforward.io/packages/armmbedcli.json
-https://registry.ioraptor.thingforward.io/packages/catch2.json
-https://registry.ioraptor.thingforward.io/packages/cppcheck.json
-https://registry.ioraptor.thingforward.io/packages/gitlab.json
-https://registry.ioraptor.thingforward.io/packages/jenkins.json
-https://registry.ioraptor.thingforward.io/packages/unity.json
-https://registry.ioraptor.thingforward.io/packages/valgrind.json
+{
+    "manifest" : {
+        "version" : "2",
+        "packages_base_uri" : "https://registry.ioraptor.thingforward.io/packages/",
+        "packages" : [
+            "androidndk.json",
+            "armmbedcli.json",
+            "atom.json",
+            "catch2.json",
+            "cppcheck.json",
+            "doxygen.json",
+            "eclipse.json",
+            "git.json",
+            "gitlab.json",
+            "jenkins.json",
+            "platformio.json",
+            "python3.json",
+            "python27.json",
+            "qt.json",
+            "qtcreator.json",
+            "slack.json",
+            "slyft.json",
+            "unity.json",
+            "valgrind.json",
+            "visualstudiocode.json",
+            "wireshark.json",
+            "yotta.json"
+        ],
+        "cb_entries" : [
+            "LGPL Package"
+        ]
+    }
+}
