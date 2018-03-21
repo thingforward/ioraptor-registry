@@ -11,7 +11,7 @@
         "urls" : {
             "executable" : "https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/catch.hpp",
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -26,7 +26,7 @@
         "urls" : {
             "executable" : null,
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -41,7 +41,7 @@
         "urls" : {
             "executable" : null,
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -56,7 +56,7 @@
         "urls" : {
             "executable" : null,
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -71,7 +71,7 @@
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/91/56/91567e17-7a78-41ec-a998-4ee38e6274a2/yotta_osx_installer_v004.dmg",
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -86,7 +86,7 @@
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/2f/0b/2f0b924c-1fac-4907-989b-f2afe3f5785e/yotta_install_v023.exe",
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
@@ -101,7 +101,7 @@
         "urls" : {
             "executable" : "https://mbed-media.mbed.com/filer_public/2f/0b/2f0b924c-1fac-4907-989b-f2afe3f5785e/yotta_install_v023.exe",
             "info" : {
-                "mainpage": "https://www.mbed.com/en/platform/software/mbed-yotta/",
+                "mainpage": "https://github.com/ARMmbed/yotta",
                 "documenation": "http://docs.yottabuild.org/",
                 "tutorial": "http://docs.yottabuild.org/",
                 "community": "https://github.com/ARMmbed/yotta/issues"
