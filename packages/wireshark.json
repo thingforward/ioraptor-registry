@@ -4,12 +4,12 @@
     "info": "Wireshark is a free and open source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. ",
     "logo": "http://static.movingpackets.net/2014/10/wireshark-logo.png",
     "lnx_arm": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
+            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.6.tar.xz",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -19,12 +19,12 @@
         }
     },
     "lnx_arm64": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
+            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.6.tar.xz",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -34,12 +34,12 @@
         }
     },
     "lnx_i386": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
+            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.6.tar.xz",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -49,12 +49,12 @@
         }
     },
     "lnx_x86_64": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.4.tar.xz",
+            "executable" : "https://1.eu.dl.wireshark.org/src/wireshark-2.4.6.tar.xz",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -64,12 +64,12 @@
         }
     },
     "osx_x86_64": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/osx/Wireshark%202.4.4%20Intel%2064.dmg",
+            "executable" : "https://1.eu.dl.wireshark.org/osx/Wireshark%202.4.6%20Intel%2064.dmg",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -79,12 +79,12 @@
         }
     },
     "win_i386": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/win32/Wireshark-win32-2.4.4.exe",
+            "executable" : "https://1.eu.dl.wireshark.org/win32/Wireshark-win32-2.4.6.exe",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
@@ -94,12 +94,12 @@
         }
     },
     "win_x86_64": {
-        "version": "2.4.4",
+        "version": "2.4.6",
         "license": "GPLv2",
         "tags": "open-source, analysis, network, Ethereal, TShark, sniff, usb, ethernet, wifi, wlan",
         "md5": null,
         "urls" : {
-            "executable" : "https://1.eu.dl.wireshark.org/win64/Wireshark-win64-2.4.4.exe",
+            "executable" : "https://1.eu.dl.wireshark.org/win64/Wireshark-win64-2.4.6.exe",
             "info" : {
                 "mainpage": "https://www.wireshark.org",
                 "documenation": "https://www.wireshark.org/docs/",
